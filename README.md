@@ -1,9 +1,8 @@
 ## Eventos em 2020
 
-10º PUG-SE - Palestra com [@AnaCarlaG](https://github.com/AnaCarlaG) [IA nas Finanças: Analisando o Perfil de Investidores](https://github.com/AnaCarlaG/Project-Finance)
-
-Live PyLadies Sergipe - Talk Code com [@dandaramcsousa](https://github.com/dandaramcsousa) e [@AnaCarlaG](https://github.com/AnaCarlaG) [Análise de Dados e Forró: Reunindo Dois Amores, Duas Paixões](https://github.com/dandaramcsousa/data-analysis/blob/master/data-analysis/analise-de-dados-e-forro.ipynb)
-
-Python Brasil 2020 - Palestra com [@lis-r-barreto](https://github.com/lis-r-barreto) [Análise Numérica com Python: O Poder da Linguagem que Conquistou o Coração de Cientistas e Engenheiros](https://github.com/lis-r-barreto/Python-Brasil-2020-Analise-Numerica-com-Python)
-
-Workshop PyLadies São Paulo - Oficina com [@lis-r-barreto](https://github.com/lis-r-barreto) [Física com Python: A Mecânica em uma Casca de Noz](https://github.com/lis-r-barreto/Workshop-Pyladies-SP-Fisica-com-Python)
+| Evento | Participantes | Capítulo | Tema | Descrição |
+|---|---|---|---|---|
+| 10º PUG-SE  | [@AnaCarlaG](https://github.com/AnaCarlaG)  | PyLadies Sergipe  | [IA nas Finanças: Analisando o Perfil de Investidores](https://github.com/AnaCarlaG/Project-Finance)  | Palestra sobre um projeto de IA que classifica um perfil de investidor e que o mesmo possa indicar alguns fundos para o perfil apontado pela IA.|
+| Talk Code | [@dandaramcsousa](https://github.com/dandaramcsousa) e [@AnaCarlaG](https://github.com/AnaCarlaG) | PyLadies Sergipe e PyLadies Paraíba | [Análise de Dados e Forró: Reunindo Dois Amores, Duas Paixões](https://github.com/dandaramcsousa/data-analysis/blob/master/data-analysis/analise-de-dados-e-forro.ipynb) | Python, análise de dados e forró estão no coração da PyLadies Paraíba. Com o questionamento sobre os grandes sucessos da banda Calcinha Preta, veio também a ideia de misturar tudo isso. Começou assim a saga Análise de Dados e Forró para ensinar python e o melhor do nordeste! |
+| Python Brasil 2020 |  [@lis-r-barreto](https://github.com/lis-r-barreto)  | PyLadies Sergipe | [Análise Numérica com Python: O Poder da Linguagem que Conquistou o Coração de Cientistas e Engenheiros](https://github.com/lis-r-barreto/Python-Brasil-2020-Analise-Numerica-com-Python) | Este é um convite ao universo onde a linguagem Python pode nos ajudar a resolver equações que parecem ser insolúveis. Como a Análise Numérica pode fazer uso de técnicas computacionais robustas para resolver problemas do universo que vai da escala quântica à extragaláctica? |
+| Workshop PyLadies São Paulo | [@lis-r-barreto](https://github.com/lis-r-barreto) | PyLadies Sergipe e PyLadies São Paulo | [Física com Python: A Mecânica em uma Casca de Noz](https://github.com/lis-r-barreto/Workshop-Pyladies-SP-Fisica-com-Python) | Nesta oficina, iremos dar os primeiros passos na linguagem Python utilizando conceitos da Física Básica. Como usar as ferramentas de Análise de Dados para entender o movimento? É o que vamos ver agora na Mecânica em uma Casca de Noz! |
